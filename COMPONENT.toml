@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-tss2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-tss2 component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
